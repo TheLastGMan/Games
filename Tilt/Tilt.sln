@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{0F9B6FDA-4220-4142-A674-5DBCA5710A1A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tilt", "Tilt\Tilt.vbproj", "{AAAAF8E9-0803-413B-BF63-B556A750621C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tilt.Core", "Tilt.Core\Tilt.Core.vbproj", "{27B964CE-8B04-4416-AA50-399F7BF9DDA0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TiltWeb", "TiltWeb\TiltWeb.vbproj", "{0FED8C0B-4169-458A-9953-B4F512DEB835}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rpgcor.tfspreview.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Tilt.Core\\Tilt.Core.vbproj
+		SccProjectTopLevelParentUniqueName1 = Tilt.sln
+		SccProjectName1 = Tilt.Core
+		SccLocalPath1 = Tilt.Core
+		SccProjectUniqueName2 = Tilt\\Tilt.vbproj
+		SccProjectName2 = Tilt
+		SccLocalPath2 = Tilt
+		SccProjectUniqueName3 = TiltWeb\\TiltWeb.vbproj
+		SccProjectName3 = TiltWeb
+		SccLocalPath3 = TiltWeb
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAAAF8E9-0803-413B-BF63-B556A750621C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAAAF8E9-0803-413B-BF63-B556A750621C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAAAF8E9-0803-413B-BF63-B556A750621C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAAAF8E9-0803-413B-BF63-B556A750621C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B964CE-8B04-4416-AA50-399F7BF9DDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B964CE-8B04-4416-AA50-399F7BF9DDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B964CE-8B04-4416-AA50-399F7BF9DDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B964CE-8B04-4416-AA50-399F7BF9DDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FED8C0B-4169-458A-9953-B4F512DEB835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FED8C0B-4169-458A-9953-B4F512DEB835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FED8C0B-4169-458A-9953-B4F512DEB835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FED8C0B-4169-458A-9953-B4F512DEB835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27B964CE-8B04-4416-AA50-399F7BF9DDA0} = {0F9B6FDA-4220-4142-A674-5DBCA5710A1A}
+	EndGlobalSection
+EndGlobal
